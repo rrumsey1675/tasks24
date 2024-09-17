@@ -29,7 +29,7 @@ function App(): React.JSX.Element {
             <Container>
                 <Row>
                     <Col>
-                        <div className="rectangle">y</div>
+                        <div className="rectangle"></div>
                         Unordered List:
                         <ul>
                             <li>Iodine</li>
@@ -38,7 +38,7 @@ function App(): React.JSX.Element {
                         </ul>
                     </Col>
                     <Col>
-                        <div className="rectangle">x</div>
+                        <div className="rectangle"></div>
                         <img
                             src={image}
                             alt="Procastination Meme"
